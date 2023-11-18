@@ -16,6 +16,4 @@ logging.basicConfig(
 )
 
 
-if __name__ =="__main__":
-    logging.info("logs are imported")
     
